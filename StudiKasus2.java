@@ -65,6 +65,7 @@ public class StudiKasus2 {
         } 
         else {
             System.out.println("Jenis kegiatan tidak valid.");
+            
         }
 
         scanner.close();
